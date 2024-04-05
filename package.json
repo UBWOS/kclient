@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linuxserver/kclient.git"
+    "url": "git+https://github.com/UBWOS/kclient.git"
   },
   "keywords": [
     "VNC",
@@ -23,10 +23,10 @@
     "VDI",
     "Docker"
   ],
-  "author": "thelamer",
+  "author": "UBWOS",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/linuxserver/kclient/issues"
+    "url": "https://github.com/UBWOS/kclient/issues"
   },
-  "homepage": "https://github.com/linuxserver/kclient#readme"
+  "homepage": "https://github.com/UBWOS/kclient#readme"
 }

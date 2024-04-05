@@ -1,8 +1,8 @@
 // LinuxServer KasmVNC Client
 
 //// Env variables ////
-var CUSTOM_USER = process.env.CUSTOM_USER || 'abc';
-var PASSWORD = process.env.PASSWORD || 'abc';
+var CUSTOM_USER = process.env.CUSTOM_USER || 'ubwosadm';
+var PASSWORD = process.env.PASSWORD || 'ubwosadm';
 var SUBFOLDER = process.env.SUBFOLDER || '/';
 var TITLE = process.env.TITLE || 'KasmVNC Client';
 var FM_HOME = process.env.FM_HOME || '/config';
